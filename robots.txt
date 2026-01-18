@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap (optional - ganti dengan URL kamu nanti)
+Sitemap: https://inventoryasetras.netlify.app/
+
+# Crawl delay
+Crawl-delay: 10
+
+# Disallow (kalau mau hide bagian tertentu)
+# Disallow: /admin/
+# Disallow: /private/
