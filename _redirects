@@ -1,0 +1,5 @@
+# SPA Routing - semua request diarahkan ke index.html
+/*    /index.html   200
+
+# Custom redirects (optional)
+/old-path    /new-path    301
